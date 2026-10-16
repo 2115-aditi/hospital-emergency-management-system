@@ -59,7 +59,7 @@ def treat_next_patient():
 st.set_page_config(page_title="Hospital Emergency System", page_icon="🏥", layout="wide")
 
 st.markdown("## 🏥 Hospital Emergency Management System")
-st.markdown("SY B.Tech Mini Project (Group C - MP 2): Dynamic Linked List & Priority Queue Implementation")
+#st.markdown("SY B.Tech Mini Project (Group C - MP 2): Dynamic Linked List & Priority Queue Implementation")
 st.divider()
 
 # ================= SIDEBAR INPUT FORM =================
